@@ -1,0 +1,42 @@
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Python Flask Application Project</span>
+</h1>
+
+## About
+
+In this project, you'll build a dynamic Flask application that reads data from either a .csv file or an external API and presents it through user-friendly, read-only routes. This project will enhance your Flask skills by focusing on data retrieval, processing, and presentation. Whether you choose to display data as JSON or render it into HTML templates using Jinja, you’ll gain hands-on experience in creating APIs and web applications that deliver meaningful content to users. The project emphasizes designing clean and navigable routes while ensuring that your application is both functional and engaging.
+
+Estimated completion time is around **15 hours**.
+
+## Content
+
+1. [Project Journey](./project-journey/README.md)
+
+2. [Project Requirements and Guidance](./project-requirements-and-guidance/README.md)
+
+   - [Project Requirements PDF](./project-requirements-and-guidance/assets/project-requirements.pdf)
+
+3. [Project GitHub Repo URL Deliverable](./project-github-repo-url-deliverable/README.md)
+
+4. [Project Presentation Requirements](./project-presentation-requirements/README.md)
+
+## Internal
+
+### Content
+
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1nbJLcdttAXO8boWkIAsy9XtpFOipvTWQIIO7eOL8_Ao/edit?usp=sharing)
+
+### Prerequisites
+
+To successfully complete this project, students must have a solid understanding of Python fundamentals, including working with functions, loops, and basic data structures (lists, dictionaries). Familiarity with Flask and routing is essential, as well as experience in reading data from files or APIs. Basic skills in handling .csv files, error handling, and navigating the terminal are required to effectively manage and present data in the application.
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🏗️ [Release Notes](./internal-resources/release-notes.md)
+
+---
+
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
